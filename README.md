@@ -1,2 +1,2 @@
-Modification pour le TP collaboration# GLGit
+# GLGit
 Un dépôt git
